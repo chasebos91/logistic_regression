@@ -1,8 +1,9 @@
 # logistic_regression
 Logistic regression with numpy dependency. 
-Dependencies: - numpy
-              - matplotlib
-              - time
+Dependencies: 
+- numpy
+- matplotlib
+- time
 The following logitics regression implementation contains the following:
 - vanilla gradient descent
 - stochastic gradient descent 
