@@ -4,6 +4,7 @@ Dependencies:
 - numpy
 - matplotlib
 - time
+
 The following logitics regression implementation contains the following:
 - vanilla gradient descent
 - stochastic gradient descent 
